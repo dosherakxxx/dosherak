@@ -1,23 +1,35 @@
 <!-- HEADER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Dosherak!%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<h3>🇰🇿 Full-Stack Developer from Kazakhstan</h3>
-<p>
-  💻 HTML • CSS • JS • Python • PHP • SQL  
-  ⚙️ Flask • Django • Bootstrap  
-  🌱 Learning something new every day  
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Hi%20there!%20I'm%20dosherak%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=16+y.o.+Web+Developer+from+Kazakhstan;Student+at+IT+Step+Academy+%F0%9F%93%9A;Backend+%7C+Frontend+%7C+Full-Stack;Learning+new+tech+every+day!+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 About Me
+
+- 🇰🇿 I'm a web developer based in **Astana, Kazakhstan**
+- 👨‍🎓 16 y.o. | **Freelancer & student at IT Step Academy**  
+- 🌍 English level: **Upper-Intermediate (B2)**  
+- 🎯 Passionate about **web development**, **backend engineering**, and **learning new technologies**
+- 📲 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)
+
+---
+
+### 🚀 Featured Projects
+
+- 🌐 **Best Project**: [Eurotherm Kazakhstan Website](https://dosherakxxx.github.io/eurotherm.kz/)
+- 🧰 **Portfolio Website**: [Portfolio Site](https://dosherakxxx.github.io/portfoliosite/)
+
+---
+
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,flask,django,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,flask,django" />
 </p>
 
 ---
@@ -25,24 +37,32 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dosherakxxx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dosherakxxx&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dosherakxxx&show_icons=true&theme=radical&hide_border=true" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosherakxxx&layout=compact&theme=radical&hide_border=true" width="47%">
 </p>
 
 ---
 
-### 📬 Let's Connect!
+### 🏆 Achievements
 
 <p align="center">
-  <a href="https://t.me/dosherakxxxx-tg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:dosherakt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=dosherakxxx&theme=discord&margin-w=15&row=1&no-frame=true"/>
 </p>
 
 ---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/dosherakxxxx">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:dosherakt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <!-- FOOTER -->
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
 </div>
