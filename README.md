@@ -6,7 +6,7 @@
 - 📚 16 y.o. | Freelance, student at IT Step Academy  
 - 🌍 English level: Upper-Intermediate (B2)  
 - 🎯 Passionate about web development, backend engineering & learning new tech  
-- 📲 Telegram: [@dosherakxxx](https://t.me/dosherakxxx)
+- 📲 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)
 
 ---
 
@@ -46,5 +46,5 @@
 
 ### 📫 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dosherakxxx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dosherakxxxx)
 
