@@ -25,8 +25,8 @@
 
 ### 📈 GitHub Stats
 
-![dosherak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosherak&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosherak&layout=compact&theme=github_dark)
+![dosherak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosherakxxx&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosherakxxx&layout=compact&theme=github_dark)
 
 ---
 
