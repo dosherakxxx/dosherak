@@ -32,7 +32,7 @@
 
 ### 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dosherak&theme=algolia)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dosherakxxx&theme=algolia)
 
 ---
 
