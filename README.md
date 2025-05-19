@@ -2,7 +2,7 @@
 
 ### 🧠 About Me
 
-- 🇰🇿 I'm a web developer based in Astana, Kazak~hstan~  
+- <img src="https://flagcdn.com/w320/kz.png" width="20" alt="Kazakhstan Flag"/> I'm a web developer based in Astana, Kazakhstan.
 - 📚 16 y.o. | Freelance student at IT Step Academy  
 - 🌍 English level: Upper-Intermediate (B2)  
 - 🎯 Passionate about web development, backend engineering & learning new tech  
