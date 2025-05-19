@@ -1,54 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Dosherak!%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Dosherak!%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+<h3>🇰🇿 Full-Stack Developer from Kazakhstan</h3>
+<p>
+  💻 HTML • CSS • JS • Python • PHP • SQL  
+  ⚙️ Flask • Django • Bootstrap  
+  🌱 Learning something new every day  
 </p>
 
-## 👋 Hi there! I'm dosherak
-
-### 🧠 About Me
-
-- <img src="https://flagcdn.com/w320/kz.png" width="20" alt="Kazakhstan Flag"/> I'm a web developer based in Astana, Kazakhstan.
-- 📚 16 y.o. | Freelance, student at IT Step Academy  
-- 🌍 English level: Upper-Intermediate (B2)  
-- 🎯 Passionate about web development, backend engineering & learning new tech  
-- 📲 Telegram: [@dosherakxxxx](https://t.me/dosherakxxxx)
-
----
-
-### 🚀 Featured Projects
-
-- 🌐 **Best Project**: [Eurotherm Kazakhstan Website](https://dosherakxxx.github.io/eurotherm.kz/)
-- 🧰 **Portfolio Website**: [Portfolio Site](https://dosherakxxx.github.io/portfoliosite/)
+</div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,flask,django,bootstrap" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
-![dosherak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dosherakxxx&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosherakxxx&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dosherakxxx&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dosherakxxx&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-### 🏆 Achievements
+### 📬 Let's Connect!
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dosherakxxx&theme=algolia)
+<p align="center">
+  <a href="https://t.me/dosherakxxxx-tg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:dosherakt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 📫 Let's Connect
+<!-- FOOTER -->
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dosherakxxxx)
-
+</div>
