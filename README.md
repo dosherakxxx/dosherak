@@ -3,10 +3,10 @@
 ### 🧠 About Me
 
 - <img src="https://flagcdn.com/w320/kz.png" width="20" alt="Kazakhstan Flag"/> I'm a web developer based in Astana, Kazakhstan.
-- 📚 16 y.o. | Freelance student at IT Step Academy  
+- 📚 16 y.o. | Freelance, student at IT Step Academy  
 - 🌍 English level: Upper-Intermediate (B2)  
 - 🎯 Passionate about web development, backend engineering & learning new tech  
-- 📲 Telegram: [@dosherakxxxx-tg](https://t.me/dosherakxxx)
+- 📲 Telegram: [@dosherakxxx](https://t.me/dosherakxxx)
 
 ---
 
