@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🇰🇿 I'm a web developer based in **Astana, Kazakhstan**
+- 🇰🇿 I'm a web developer based in **Astana, Kazakhstan**| Junior/Middle
 - 👨‍🎓 16 y.o. | **Freelancer & student at IT Step Academy**  
 - 🌍 English level: **Upper-Intermediate (B2)**  
 - 🎯 Passionate about **web development**, **backend engineering**, and **learning new technologies**
