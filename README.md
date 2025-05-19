@@ -2,7 +2,7 @@
 
 ### 🧠 About Me
 
-- <img src="https://flagcdn.com/w320/kz.png" width="15" alt="Kazakhstan Flag"/> I'm a web developer based in Astana, Kazakhstan. 
+- <img src="https://flagcdn.com/w320/kz.png" width="20" alt="Kazakhstan Flag"/> I'm a web developer based in Astana, Kazakhstan. 
 - 🌍 English level: B2  
 - 🎯 Passionate about web development, back-end engineering, and learning new tech.  
 - 📹 I also share content on Telegram: [@dosherakxxxx-tg](https://t.me/dosherakxxxx-tg)
