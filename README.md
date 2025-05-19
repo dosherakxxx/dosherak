@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+from+Kazakhstan;HTML+%7C+CSS+%7C+Python+%7C+JavaScript+%7C+PHP;Flask+%7C+Django+%7C+Bootstrap+%7C+MySQL;Always+learning+new+tech!+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
 ## 👋 Hi there! I'm dosherak
 
 ### 🧠 About Me
