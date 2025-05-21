@@ -21,7 +21,10 @@
 
 ### 🚀 Featured Projects
 
+- 🌐 **First Project**: [Cvety Astana](https://cvetyastana-kz.kz/)
 - 🌐 **Best Project**: [Eurotherm Kazakhstan Website](https://dosherakxxx.github.io/eurotherm.kz/)
+- 🌐 **Vivi Bouquet**: [vivi-bouquet.kz](https://www.vivi-bouquet.kz/)
+- 🌐 **Mery**: [mery.kz](https://mery.kz/)
 - 🧰 **Portfolio Website**: [Portfolio Site](https://dosherakxxx.github.io/portfoliosite/)
 
 ---
@@ -66,3 +69,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
 </div>
+
