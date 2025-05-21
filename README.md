@@ -32,7 +32,7 @@
 
 - 🌐 Cvety.astana.kz-[Cvety Astana](https://cvetyastana-kz.kz/)(First project)
 - 🌐 vivi-bouquet-[Vivi Bouquet](https://www.vivi-bouquet.kz/)  
-
+- 🌐 Hammer Fitness-[Hammer-fit](https://hammer-fit.ru/)
 ---
 
 
