@@ -19,15 +19,22 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Personal Projects
 
-- 🌐 **First Project**: [Cvety Astana](https://cvetyastana-kz.kz/)
-- 🌐 **Best Project**: [Eurotherm Kazakhstan Website](https://dosherakxxx.github.io/eurotherm.kz/)
-- 🌐 **Vivi Bouquet**: [vivi-bouquet.kz](https://www.vivi-bouquet.kz/)
-- 🌐 **Mery**: [mery.kz](https://mery.kz/)
-- 🧰 **Portfolio Website**: [Portfolio Site](https://dosherakxxx.github.io/portfoliosite/)
+- 🌐 Eurotherm.kz-[Eurotherm Kazakhstan Website](https://dosherakxxx.github.io/eurotherm.kz/)(Best work, in work) 
+- 🌐 Mery-[Mery](https://mery.kz/)
+- 🌐 MainBet-[MainBet.kz](https://mainbet.kz/)
+- 🧰 My portfolio site-[Portfolio Website](https://dosherakxxx.github.io/portfoliosite/)  
 
 ---
+
+### 🤝 Team Projects
+
+- 🌐 Cvety.astana.kz-[Cvety Astana](https://cvetyastana-kz.kz/)(First project)
+- 🌐 vivi-bouquet-[Vivi Bouquet](https://www.vivi-bouquet.kz/)  
+
+---
+
 
 ### ⚙️ Tech Stack
 
