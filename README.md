@@ -21,7 +21,7 @@
 
 ### 🚀 Personal Projects
 
-- 🌐 homevent.kz-[Eurotherm Kazakhstan](https://homevent.kz/)(Best work) 
+- 🌐 homevent.kz-[Homevent Kazakhstan](https://homevent.kz/)(Best work) 
 - 🌐 Mery-[Mery](https://mery.kz/)
 - 🌐 MainBet-[MainBet.kz](https://mainbet.kz/)
 - 🧰 My portfolio site-[Portfolio Website](https://dosherakxxx.github.io/portfoliosite/)  
