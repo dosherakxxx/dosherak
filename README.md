@@ -24,7 +24,7 @@
 - 🌐 homevent.kz-[Homevent Kazakhstan](https://homevent.kz/)(Best work) 
 - 🌐 Mery-[Mery](https://mery.kz/)
 - 🌐 MainBet-[MainBet.kz](https://mainbet.kz/)
-- 🧰 My portfolio site-[Portfolio Website](https://dosherakxxx.github.io/portfoliosite/)  
+- 🧰 My portfolio site(not relevant)-[Portfolio Website](https://dosherakxxx.github.io/portfoliosite/)  
 
 ---
 
